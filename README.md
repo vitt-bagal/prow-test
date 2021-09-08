@@ -1,2 +1,2 @@
 # prow-test
-simple repo for prow testing
+Simple repo for prow testing
